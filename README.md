@@ -1,4 +1,4 @@
-<h1 align="center">Holaa 👋, I'm Likhith Rachagolla</h1>
+<h1 align="center">Holaa 👋, I'm Rachagolla Likhith!</h1>
 <h3 align="center">A passionate and enthusiastic frontend developer who has been designing his life from the lessons learnt!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhith04&label=Profile%20views&color=0e75b6&style=flat" alt="likhith04" /> </p>
